@@ -1,0 +1,82 @@
+body {
+    width: 480px;
+    height: 562px;
+    margin: auto;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header-text {
+    width: 484px;
+    height: 56px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.header-nav {
+    position: absolute;
+    height: 56px;
+    /*left: -2px;*/
+    top: 18px;
+}
+
+.text-time {
+    position: absolute;
+    top: 165px;
+    padding-left: 40px;
+}
+
+.text-music {
+    position: absolute;
+    top: 190px;
+    padding-left: 10px;
+}
+
+.text-xiaomi {
+    position: absolute;
+    top: 95px;
+    padding-left: 190px;
+    /*left: 180px;*/
+
+}
+.list-time {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFEA00;
+    text-shadow: 0px 1px 2px rgb(0 0 0 / 90%);
+}
+
+.list-music {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    /*font-weight: bold;*/
+    font-size: 28px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+    text-shadow: 0px 1px 2px rgb(0 0 0 / 90%);
+    font-weight: 700;
+}
+.list-xiaomi {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 20px;
+    color: #261D88;
+    width: 297px;
+}
