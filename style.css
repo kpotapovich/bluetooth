@@ -1,16 +1,18 @@
-@media screen and (min-width: 480px) {
+
+
     body {
-        width: 480px;
+        max-width: 480px;
         height: 1078px;
-        margin: auto;
-        padding: 0;
+
     }
 
     * {
         margin: 0;
         padding: 0;
     }
-
+.img {
+    max-width: 100%;
+}
 
     .header-text {
         width: 484px;
@@ -110,5 +112,5 @@
         color: #FFFFFF;
     }
 
-}
+
 
