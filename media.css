@@ -10,11 +10,11 @@
  }
   .list-xiaomi{
     width: 250px;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 15px;
   }
   .text-xiaomi{
-    padding-left: 150px;
+    padding-left: 140px;
     top: 80px;
   }
   .text-time{
@@ -43,5 +43,40 @@
   }
   .list-money-sum {
     font-size: 42px;
+  }
+}
+
+@media screen and (max-width: 377px){
+  .text-xiaomi{
+    padding-left: 130px;
+    top: 70px
+  }
+  .list-xiaomi {
+    font-size: 16px;
+}
+  .list-time {
+    top: 123px;
+    padding-left: 30px;
+  }
+
+  .text-music {
+    top: 145px;
+  }
+  .list-music {
+    font-size: 20px;
+  }
+  .list-money {
+    padding-left: 150px;
+    top: 480px;
+  }
+  .text-time {
+    top: 120px;
+    padding-left: 3px;
+  }
+  .list-text-monuy {
+    font-size: 18px;
+  }
+  .list-money-sum {
+    font-size: 40px;
   }
 }
