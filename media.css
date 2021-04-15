@@ -4,7 +4,7 @@
   }
 
  .header-text{
-   font-size: 22px;
+   font-size: 25px;
    width: auto;
 
  }
@@ -43,6 +43,17 @@
   }
   .list-money-sum {
     font-size: 42px;
+  }
+}
+
+@media screen and (max-width: 385px){
+  .header-text {
+    font-size: 22px;
+    width: auto;
+  }
+  .list-money {
+    padding-left: 159px;
+    top: 495px;
   }
 }
 
