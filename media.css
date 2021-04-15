@@ -57,6 +57,7 @@
   .list-time {
     top: 123px;
     padding-left: 30px;
+    font-size: 18px;
   }
 
   .text-music {
@@ -66,8 +67,10 @@
     font-size: 20px;
   }
   .list-money {
-    padding-left: 150px;
-    top: 480px;
+    padding-left: 155px;
+    top: 485px;
+    /*padding-left: 145px;*/
+    /*top: 465px;*/
   }
   .text-time {
     top: 120px;
@@ -78,5 +81,56 @@
   }
   .list-money-sum {
     font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .list-money {
+    /*padding-left: 155px;*/
+    /*top: 485px;*/
+    padding-left: 145px;
+    top: 465px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .header-text {
+    font-size: 20px;
+  }
+  .list-xiaomi {
+    width: 210px;
+  }
+
+  .list-xiaomi {
+    font-size: 14px;
+    width: 230px;
+  }
+  .text-xiaomi {
+    padding-left: 120px;
+    top: 60px;
+  }
+  .text-time {
+    top: 105px;
+    padding-left: 0;
+  }
+  .text-music {
+    top: 125px;
+  }
+  .list-music {
+    font-size: 18px;
+  }
+
+
+  .list-money {
+    padding-left: 130px;
+    top: 410px;
+  }
+
+  .list-text-monuy {
+    font-size: 15px;
+  }
+
+  .list-money-sum {
+    font-size: 33px;
   }
 }
