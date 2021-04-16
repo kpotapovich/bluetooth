@@ -356,3 +356,145 @@
     width: 480px;
 }
 
+    .button-android {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 51px;
+        top: 2110px;
+        background: linear-gradient(
+          180deg
+          , #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+    }
+
+    .button-go-android {
+        padding-bottom: 48px;
+    }
+
+    .heading {
+        position: absolute;
+        width: 403px;
+        height: 60px;
+        left: 38px;
+        top: 2280px;
+    }
+
+    .heading-title {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+    .paragraph {
+        position: absolute;
+        width: 190px;
+        height: 220px;
+        left: 270px;
+        top: 2410px;
+
+
+    }
+
+    .paragraph-one {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 20px;
+        color: #000000;
+        padding-bottom: 15px;
+    }
+    .paragraph-two {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 20px;
+        color: #000000;
+    }
+    .text-tws {
+        position: absolute;
+        height: 28px;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        color: #282548;
+        top: 2690px;
+        left: 5px;
+    }
+    .text-apple {
+        position: absolute;
+        width: 104px;
+        height: 50px;
+        left: 363px;
+        top: 2700px;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 25px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .list-description {
+        list-style-type: none;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 13px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .list-power-bank {
+        position: absolute;
+        width: 228px;
+        height: 24px;
+        left: 126px;
+        top: 2890px;
+    }
+    .list-volume {
+        position: absolute;
+        width: 255px;
+        height: 24px;
+        left: 112px;
+        top: 2930px;
+    }
+
+    .list-charging {
+        position: absolute;
+        width: 281px;
+        height: 24px;
+        left: 99px;
+        top: 2970px;
+    }
+    .list-protection{
+        position: absolute;
+        width: 293px;
+        height: 24px;
+        left: 93px;
+        top: 3010px;
+    }
+    .list-sound {
+        position: absolute;
+        width: 293px;
+        height: 24px;
+        left: 93px;
+        top: 3058px;
+    }
+    .button-buy {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 53px;
+        top: 3130px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+    }
+
