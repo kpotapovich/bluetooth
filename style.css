@@ -869,3 +869,210 @@
         cursor: pointer;
         filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
     }
+
+    .photo-items {
+        position: relative;
+    }
+
+    /*--------section 11 --------*/
+
+    .title-battery {
+        position: absolute;
+        width: 482px;
+        height: 90px;
+        left: 17px;
+        top: 7733px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .text-battery {
+        position: absolute;
+        width: 424px;
+        height: 40px;
+        left: 17px;
+        top: 7841px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 20px;
+        color: #DBFFFE;
+    }
+
+    .battery{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 18px;
+        text-align: right;
+        color: #000000;
+        list-style-type: none;
+    }
+
+    .battery-right {
+        position: absolute;
+        width: 229px;
+        height: 36px;
+        left: 239px;
+        top: 8135px;
+    }
+
+    .battery-case {
+        position: absolute;
+        width: 161px;
+        height: 24px;
+        left: 265px;
+        top: 8300px;
+    }
+
+    .battery-left {
+        position: absolute;
+        width: 216px;
+        height: 36px;
+        left: 32px;
+        top: 8360px;
+        text-align: left;
+    }
+
+    .button-battery {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 53px;
+        top: 8435px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
+    }
+    /*-------section 12 -------*/
+
+    .photo-characteristics {
+        margin-top: -21px;
+    }
+
+    .characteristics {
+        position: absolute;
+        width: 326px;
+        height: 60px;
+        left: 85px;
+        top: 8589px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+    .number {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 115.38%;
+        color: #000000;
+        list-style-type: none;
+    }
+
+    .number-eighty {
+        position: absolute;
+        width: 66px;
+        height: 18px;
+        left: 147px;
+        top: 8710px;
+    }
+
+    .number-fifty{
+        position: absolute;
+        width: 66px;
+        height: 18px;
+        left: 303px;
+        top: 8725px
+    }
+
+    .number-twenty {
+        position: absolute;
+        width: 66px;
+        height: 18px;
+        left: 328px;
+        top: 8770px;
+    }
+
+    .set{
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 115.38%;
+        color: #000000;
+        list-style-type: none;
+    }
+
+    .set-case {
+        position: absolute;
+        width: 453px;
+        height: 23px;
+        left: 207px;
+        top: 9040px;
+
+    }
+
+    .set-headphones {
+        position: absolute;
+        width: 453px;
+        height: 23px;
+        left: 207px;
+        top: 9070px;
+
+    }
+
+    .set-ambushures {
+        position: absolute;
+        width: 453px;
+        height: 23px;
+        left: 207px;
+        top: 9100px;
+    }
+
+    .set-ambus {
+        position: absolute;
+        width: 453px;
+        height: 23px;
+        left: 207px;
+        top: 9130px;
+
+    }
+
+    .set-instruction {
+        position: absolute;
+        width: 453px;
+        height: 23px;
+        left: 207px;
+        top: 9160px;
+    }
+
+    .button-set {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 53px;
+        top: 9240px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
+    }
+   .reviews {
+    position: absolute;
+    width: 406px;
+    height: 37px;
+    left: 37px;
+    top: 9425px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    color: #000000;
+}
+
