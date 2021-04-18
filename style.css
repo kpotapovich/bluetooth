@@ -497,4 +497,149 @@
         border-radius: 50px;
         cursor: pointer;
     }
+    .heading-add {
+        position: absolute;
+        width: 447px;
+        height: 60px;
+        left: 18px;
+        top: 3230px;
+    }
+
+    .heading-text{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .name-control {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        color: #ffffff;
+        position: absolute;
+        width: 443px;
+        height: 30px;
+        left: 18px;
+        top: 3680px;
+    }
+
+    .name-cry{
+        position: absolute;
+        width: 443px;
+        height: 37px;
+        left: 21px;
+        top: 3705px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .section-list {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 15px;
+        color: #FFD3B3;
+        list-style-type: none;
+    }
+    .sec-one {
+        position: absolute;
+        width: 35px;
+        height: 15px;
+        left: 108px;
+        top: 4155px;
+    }
+    .sec-two {
+        position: absolute;
+        width: 35px;
+        height: 15px;
+        left: 230px;
+        top: 4155px;
+    }
+    .sec-three {
+        position: absolute;
+        width: 37px;
+        height: 15px;
+        left: 354px;
+        top: 4155px;
+    }
+    .sec-four {
+        position: absolute;
+        width: 35px;
+        height: 15px;
+        left: 108px;
+        top: 4230px;
+    }
+    .sec-five {
+        position: absolute;
+        width: 38px;
+        height: 15px;
+        left: 230px;
+        top: 4230px;
+    }
+    .sec-six {
+        position: absolute;
+        width: 37px;
+        height: 15px;
+        left: 354px;
+        top: 4230px;
+    }
+    .section-list-text {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 15px;
+        color: #FFFFFF;
+        list-style-type: none;
+    }
+    .section-text-one {
+        position: absolute;
+        width: 102px;
+        height: 30px;
+        left: 69px;
+        top: 4180px;
+    }
+    .section-text-two {
+        position: absolute;
+        width: 73px;
+        height: 30px;
+        left: 191px;
+        top: 4180px;
+    }
+    .section-text-three {
+        position: absolute;
+        width: 79px;
+        height: 30px;
+        left: 319px;
+        top: 4180px;
+
+    }
+
+    .section-text-four {
+        position: absolute;
+        width: 48px;
+        height: 30px;
+        left: 69px;
+        top: 4260px;
+    }
+
+    .section-text-five {
+        position: absolute;
+        width: 114px;
+        height: 30px;
+        left: 191px;
+        top: 4260px;
+    }
+
+    .section-text-six {
+        position: absolute;
+        width: 113px;
+        height: 30px;
+        left: 322px;
+        top: 4260px;
+    }
 
