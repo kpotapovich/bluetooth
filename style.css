@@ -804,3 +804,68 @@
         font-size: 25px;
         line-height: 20px;
     }
+
+    /*-------- section 10 --------*/
+
+    .button-bank {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 53px;
+        top: 6910px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
+    }
+
+    .charging {
+        position: absolute;
+        width: 429px;
+        height: 30px;
+        left: 31px;
+        top: 7020px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .charging-phone {
+        position: absolute;
+        width: 326px;
+        height: 30px;
+        left: 31px;
+        top: 7053px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .charging-text {
+        position: absolute;
+        width: 445px;
+        height: 120px;
+        left: 26px;
+        top: 7115px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 24px;
+        color: #000000;
+    }
+
+    .button-charging {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 53px;
+        top:  7637px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
+    }
