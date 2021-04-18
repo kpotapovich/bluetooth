@@ -644,3 +644,163 @@
         top: 4195px;
     }
 
+    .button-control {
+        position: absolute;
+        width: 375.55px;
+        height: 67px;
+        left: 53px;
+        top: 4270px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 50px;
+        cursor: pointer;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
+    }
+    /*-------- section 7  -------*/
+ .noise-suppression {
+     position: absolute;
+     width: 406px;
+     height: 30px;
+     left: 62px;
+     top: 4385px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 30px;
+     line-height: 30px;
+     color: #FFFFFF;
+
+ }
+
+ .photo {
+     vertical-align: middle;
+ }
+
+ .suppression-text {
+     position: absolute;
+     width: 448px;
+     height: 75px;
+     left: 20px;
+     top: 5155px;
+     font-weight: 300;
+     font-family: 'Montserrat', sans-serif;
+     font-style: normal;
+     font-size: 20px;
+     line-height: 25px;
+     color: #FFFFFF;
+ }
+ .button-suppression {
+     position: absolute;
+     width: 375.55px;
+     height: 67px;
+     left: 53px;
+     top: 5240px;
+     background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+     border-radius: 50px;
+     cursor: pointer;
+     filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
+ }
+
+ /*------- section 8 ----------*/
+
+    .photo-six {
+        margin-top: -7px;
+    }
+
+    .text-sound {
+        position: absolute;
+        width: 437px;
+        height: 30px;
+        left: 21px;
+        top: 5370px;
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+    .sound{
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 10px;
+        text-align: center;
+        color: #FFFFFF;
+        list-style-type: none;
+    }
+
+    .sound-high {
+        position: absolute;
+        width: 89px;
+        height: 20px;
+        left: 84px;
+        top: 5500px;
+
+    }
+
+    .sound-low {
+        position: absolute;
+        width: 88px;
+        height: 20px;
+        left: 196px;
+        top: 5500px;
+    }
+
+    .sound-effect {
+        position: absolute;
+        width: 47px;
+        height: 20px;
+        left: 327px;
+        top: 5500px;
+    }
+
+    /*--------- section 9 ----------*/
+
+    .quality-sound {
+
+        position: absolute;
+        width: 418px;
+        height: 161px;
+        left: 31px;
+        top: 6025px;
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #000000;
+    }
+
+    .quality-sound-text {
+        position: absolute;
+        width: 418px;
+        height: 161px;
+        left: 31px;
+        top: 6090px;
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+    }
+
+    .quality-text {
+        position: absolute;
+        width: 456px;
+        height: 42px;
+        left: 21px;
+        top: 6811px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 20px;
+        color: #000000;
+    }
+
+    .bluetooth {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 20px;
+    }
