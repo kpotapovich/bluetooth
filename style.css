@@ -12,7 +12,9 @@
         padding: 0;
     }
 .img {
-    max-width: 100%;
+   vertical-align: middle;
+
+
 }
 
     .header-text {
@@ -241,7 +243,6 @@
         height: 22px;
         left: 17px;
         top: 1022px;
-        font-family: Montserrat;
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
@@ -290,10 +291,9 @@
     height: 67px;
     left: 51px;
     top: 1080px;
-    background: linear-gradient(
-      180deg
-      , #BC012E 0%, #DA0034 100%);
+    background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
     border-radius: 50px;
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.25));
 }
 
 .button-go {
@@ -328,13 +328,18 @@
 
 .video-img {
     width: 480px;
+    vertical-align: middle;
 }
+
+
+/* 2 section */
+
 .description{
     position: absolute;
     width: 459px;
     height: 100px;
     left: 39px;
-    top: 1540px;
+    top: 1535px;
 }
 .description-text {
     font-style: normal;
@@ -354,6 +359,7 @@
 
 .img-foto {
     width: 480px;
+    vertical-align: middle;
 }
 
     .button-android {
@@ -362,15 +368,10 @@
         height: 67px;
         left: 51px;
         top: 2110px;
-        background: linear-gradient(
-          180deg
-          , #BC012E 0%, #DA0034 100%);
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
         border-radius: 50px;
         cursor: pointer;
-    }
-
-    .button-go-android {
-        padding-bottom: 48px;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
     }
 
     .heading {
@@ -378,11 +379,10 @@
         width: 403px;
         height: 60px;
         left: 38px;
-        top: 2280px;
+        top: 2240px;
     }
 
     .heading-title {
-        font-family: Montserrat;
         font-style: normal;
         font-weight: bold;
         font-size: 30px;
@@ -395,7 +395,7 @@
         width: 190px;
         height: 220px;
         left: 270px;
-        top: 2410px;
+        top: 2350px;
 
 
     }
@@ -424,7 +424,7 @@
         line-height: 28px;
         text-align: center;
         color: #282548;
-        top: 2690px;
+        top: 2630px;
         left: 5px;
     }
     .text-apple {
@@ -432,7 +432,7 @@
         width: 104px;
         height: 50px;
         left: 363px;
-        top: 2700px;
+        top: 2635px;
         font-style: normal;
         font-weight: 900;
         font-size: 24px;
@@ -456,14 +456,14 @@
         width: 228px;
         height: 24px;
         left: 126px;
-        top: 2890px;
+        top: 2825px;
     }
     .list-volume {
         position: absolute;
         width: 255px;
         height: 24px;
         left: 112px;
-        top: 2930px;
+        top: 2865px;
     }
 
     .list-charging {
@@ -471,38 +471,39 @@
         width: 281px;
         height: 24px;
         left: 99px;
-        top: 2970px;
+        top: 2910px;
     }
     .list-protection{
         position: absolute;
         width: 293px;
         height: 24px;
         left: 93px;
-        top: 3010px;
+        top: 2950px;
     }
     .list-sound {
         position: absolute;
         width: 293px;
         height: 24px;
         left: 93px;
-        top: 3058px;
+        top: 3000px;
     }
     .button-buy {
         position: absolute;
         width: 375.55px;
         height: 67px;
         left: 53px;
-        top: 3130px;
+        top: 3070px;
         background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
         border-radius: 50px;
         cursor: pointer;
+        filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.8));
     }
     .heading-add {
         position: absolute;
         width: 447px;
         height: 60px;
         left: 18px;
-        top: 3230px;
+        top: 3170px;
     }
 
     .heading-text{
@@ -523,7 +524,7 @@
         width: 443px;
         height: 30px;
         left: 18px;
-        top: 3680px;
+        top: 3620px;
     }
 
     .name-cry{
@@ -531,7 +532,7 @@
         width: 443px;
         height: 37px;
         left: 21px;
-        top: 3705px;
+        top: 3650px;
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
@@ -551,42 +552,42 @@
         width: 35px;
         height: 15px;
         left: 108px;
-        top: 4155px;
+        top: 4090px;
     }
     .sec-two {
         position: absolute;
         width: 35px;
         height: 15px;
         left: 230px;
-        top: 4155px;
+        top: 4090px;
     }
     .sec-three {
         position: absolute;
         width: 37px;
         height: 15px;
         left: 354px;
-        top: 4155px;
+        top: 4090px;
     }
     .sec-four {
         position: absolute;
         width: 35px;
         height: 15px;
         left: 108px;
-        top: 4230px;
+        top: 4170px;
     }
     .sec-five {
         position: absolute;
         width: 38px;
         height: 15px;
         left: 230px;
-        top: 4230px;
+        top: 4170px;
     }
     .sec-six {
         position: absolute;
         width: 37px;
         height: 15px;
         left: 354px;
-        top: 4230px;
+        top: 4170px;
     }
     .section-list-text {
         font-style: normal;
@@ -601,21 +602,21 @@
         width: 102px;
         height: 30px;
         left: 69px;
-        top: 4180px;
+        top: 4120px;
     }
     .section-text-two {
         position: absolute;
         width: 73px;
         height: 30px;
         left: 191px;
-        top: 4180px;
+        top: 4120px;
     }
     .section-text-three {
         position: absolute;
         width: 79px;
         height: 30px;
         left: 319px;
-        top: 4180px;
+        top: 4120px;
 
     }
 
@@ -624,7 +625,7 @@
         width: 48px;
         height: 30px;
         left: 69px;
-        top: 4260px;
+        top: 4195px;
     }
 
     .section-text-five {
@@ -632,7 +633,7 @@
         width: 114px;
         height: 30px;
         left: 191px;
-        top: 4260px;
+        top: 4195px;
     }
 
     .section-text-six {
@@ -640,6 +641,6 @@
         width: 113px;
         height: 30px;
         left: 322px;
-        top: 4260px;
+        top: 4195px;
     }
 
