@@ -1156,5 +1156,281 @@
         top: 9757px;
     }
 
+    .order {
+        position: absolute;
+        width: 310px;
+        left: 90px;
+        top: 10181px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 37px;
+        color: #000000;
+        text-align: center;
+    }
+
+    .order-request{
+        position: absolute;
+        width: 208px;
+        height: 194px;
+        left: 19px;
+        top: 10247px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        box-shadow: 0px 0px 4px 1px rgb(0 0 0 / 25%);
+        border-radius: 20px;
+    }
+
+    .order-box {
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+    }
+
+    .order-request {
+
+        position: absolute;
+        width: 208px;
+        height: 194px;
+        left: 19px;
+        top: 10247px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+
+    }
+
+    .order-score {
+        position: absolute;
+        width: 208px;
+        height: 194px;
+        left: 244px;
+        top: 10247px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+    }
+
+    .order-delivery {
+        position: absolute;
+        width: 208px;
+        height: 194px;
+        left: 19px;
+        top: 10457px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+    }
+
+    .order-payment {
+        position: absolute;
+        width: 208px;
+        height: 194px;
+        left: 244px;
+        top: 10457px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+    }
+
+    .order-request-img{
+        display: flex;
+        width: 80px;
+        height: 80px;
+        left: 82px;
+        top: 10273px;
+        margin: auto;
+        padding-top: 26px;
+    }
+
+    .order-request-text{
+        width: 174px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 92.7%;
+        text-align: center;
+        color: #FFFFFF;
+        margin: auto;
+        padding-top: 28px;
+    }
+
+    .order-score-img {
+        display: flex;
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        padding-top: 26px;
+    }
+
+    .order-score-text {
+        width: 197px;
+        top: 10371px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 92.7%;
+        text-align: center;
+        color: #FFFFFF;
+        margin: auto;
+        padding-top: 18px;
+    }
+
+    .order-delivery-img{
+        display: flex;
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        padding-top: 26px;
+    }
+
+    .order-delivery-text{
+        width: 197px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 92.7%;
+        text-align: center;
+        color: #FFFFFF;
+        margin: auto;
+        padding-top: 22px;
+    }
+
+    .order-payment-img {
+        display: flex;
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        padding-top: 28px;
+    }
+
+    .order-payment-text {
+        width: 197px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 92.7%;
+        text-align: center;
+        color: #FFFFFF;
+        margin: auto;
+        padding-top: 23px;
+    }
+
+    /*-------section 13-----*/
+
+    .checkout-order{
+        position: absolute;
+        width: 438px;
+        height: 503px;
+        left: 21px;
+        top: 11010px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        border-radius: 20px;
+    }
+
+    .main {
+        position: absolute;
+        width: 131px;
+        left: 177px;
+        top: 10851px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 37px;
+        color: #000000;
+    }
+
+    .checkout-order-header {
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 37px;
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 38px;
+    }
+
+    .checkout-order-text {
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        color: #FFFFFF;
+        text-align: center;
+        padding-bottom: 53px;
+    }
+
+    .box-order {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .input-block {
+        margin-bottom: 20px;
+    }
+
+    .input-text {
+        width: 360px;
+        height: 46px;
+        border: 1px solid #FFFFFF;
+        box-sizing: border-box;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        padding-left: 18px;
+    }
+    input[type="search"]::placeholder{
+        color: white;
+    }
+
+    .input-text-number {
+        width: 360px;
+        height: 46px;
+        border: 1px solid #FFFFFF;
+        box-sizing: border-box;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #BC012E 0%, #DA0034 100%);
+        padding-left: 18px;
+    }
+
+    .input-button {
+        width: 355px;
+        height: 46px;
+        left: 65px;
+        background: #FFFFFF;
+        border-radius: 50px;
+        text-decoration: none;
+        margin: 40px 0 55px;
+    }
+
+    .button-box {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        color: #2F3030;
+        text-decoration: none;
+    }
+
+
+    .form-check-label {
+        width: 344px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        color: #FFFFFF;
+        display: flex;
+    }
+
+    .form-check-input {
+        position: absolute;
+        width: 10px;
+        left: 30px;
+        background: #FFFFFF;
+    }
+
+
+
+
 
 
